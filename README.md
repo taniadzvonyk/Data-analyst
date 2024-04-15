@@ -54,7 +54,7 @@
 2. Выгрузила полученные данные в Excel, создала калькулятор прибыли, потерь и необходимого количества наблюдений в зависимости от полученных результатов АБ теста.
 
 Ссылки на проект:
-1) http://localhost:8888/notebooks/diploma/Диплом%20Берзан%20Т.А.%202024.ipynb
+1) https://docs.google.com/spreadsheets/d/17jVVrDC8WcOPyXPs3-nzeye9aumhdnM3NWUQfGEhymE/edit?usp=sharing
 2) https://docs.google.com/spreadsheets/d/1WV9hMiyG6mrK6Shrag81z8iO1xx_sL2bqeMEDwHa640/edit?usp=sharing
 
 taniadzvonyk@rambler.ru
